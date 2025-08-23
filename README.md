@@ -1,6 +1,6 @@
-## Hola, bienvenido a mi proyecto
+## Hola, desde delta-darck
 
-Este es un proyecto de prueba para mostrar cómo funciona el formato de un archivo `README.md`.
+para instalar esta increíble herramienta sigue estos pasos al pie de la letra.
 
 ---
 
@@ -12,7 +12,7 @@ Para empezar con este proyecto, sigue estos sencillos pasos en tu terminal.
 2.  Instala las dependencias.
 
 ```bash
-# Paso 1: Clona el repositorio
+# Paso 1: Clona el reposit
 git clone https://github.com/nombre-de-usuario/nombre-de-repositorio.git
 
 # Paso 2: Entra al directorio del proyecto
