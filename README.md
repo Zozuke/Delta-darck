@@ -12,11 +12,13 @@ Para empezar con este proyecto, sigue estos sencillos pasos en tu terminal.
 2.  Instala las dependencias.
 
 ```bash
+# paso 1:
+pkg update -y && pkg upgrade -y
 # Paso 1: Clona el reposit
-https://github.com/Zozuke/Delta-darck.git
+git clone https://github.com/Zozuke/Delta-darck.git
 
 # Paso 2: Entra al directorio del proyecto
 cd nombre-de-repositorio
 
 # Paso 3: Instala las dependencias necesarias
-npm install
+pkg install figlet -y
