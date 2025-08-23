@@ -13,7 +13,7 @@ Para empezar con este proyecto, sigue estos sencillos pasos en tu terminal.
 
 ```bash
 # Paso 1: Clona el reposit
-git clone https://github.com/nombre-de-usuario/nombre-de-repositorio.git
+https://github.com/Zozuke/Delta-darck.git
 
 # Paso 2: Entra al directorio del proyecto
 cd nombre-de-repositorio
