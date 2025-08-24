@@ -32,7 +32,7 @@ chmod +x ~/Delta-darck/banner.sh
 
 # paso 6: ponemos el siguiente código y serramos termux
 bash ~/Delta-darck/banner.sh
-
+---
 ### instalar herramientas necesarias
 
 ```bash
