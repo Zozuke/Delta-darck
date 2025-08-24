@@ -22,3 +22,8 @@ cd nombre-de-repositorio
 
 # Paso 3: Instala las dependencias necesarias
 pkg install figlet -y
+
+# paso :
+ cd Delta-darck
+# paso :
+chmod +x ~/Delta-darck/banner.sh
